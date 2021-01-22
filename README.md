@@ -1,8 +1,8 @@
 # Tetris
 Tetris game implemented in C++ to console.
 
-# Instructions
-Buttons
+## Instructions
+###Buttons
 A- left
 S- down
 D- right
