@@ -2,8 +2,11 @@
 Tetris game implemented in C++ to console.
 
 ## Instructions
-###Buttons
-A- left
-S- down
-D- right
-space- rotate
+ Press any key to start the game.
+ ### Buttons
+ ---
+ * A- left
+ * S- down
+ * D- right
+ * space- rotate
+ ---
